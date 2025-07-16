@@ -16,6 +16,7 @@ This is a **Single Page Application (SPA)** designed for event management, built
 The code organization is clear and modular, facilitating navigation and maintenance:
 
 ´´´
+/
 ├── index.html              # 🏠 Main SPA page
 ├── db.json                 # 💾 Simulated database (json-server)
 ├── package.json            # ⚙️ Configuration and scripts
