@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "username": "camila",
+      "password": "1234",
+      "role": "visitor",
+      "id": 2
+    },
+    {
+      "username": "camila2",
+      "password": "1234",
+      "role": "visitor",
+      "id": 3
+    },
+    {
+      "username": "pepito",
+      "password": "123",
+      "role": "visitor",
+      "id": 4
+    }
+  ],
+  "events": [
+    {
+      "name": "concierto",
+      "date": "2025-07-10",
+      "capacity": 2,
+      "description": "Un gran concierto de verano.",
+      "id": 1
+    }
+  ],
+  "registrations": [
+    {
+      "userId": 2,
+      "eventId": "1",
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "eventId": 1,
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "eventId": 1,
+      "id": 3
+    }
+  ]
+}
