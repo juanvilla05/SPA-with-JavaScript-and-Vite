@@ -15,19 +15,69 @@ This is a **Single Page Application (SPA)** designed for event management, built
 
 The code organization is clear and modular, facilitating navigation and maintenance:
 
-´´´
+```
 /
-├── index.html              # 🏠 Main SPA page
-├── db.json                 # 💾 Simulated database (json-server)
-├── package.json            # ⚙️ Configuration and scripts
-├── README.md               # 📄 This file
+├── index.html            🏠 Main SPA page
+├── db.json               💾 Simulated database (json-server)
+├── package.json          ⚙️ Configuration and scripts
+├── README.md             📄 This file
 └── src/
-├── main.js             # 🚦 App entry point
-├── router.js           # 🗺️ Routing logic (normal routes, not hash)
-├── auth.js             # 🔐 Authentication and session logic
-├── events.js           # 🗓️ Event and registration CRUD logic
-├── utils.js            # 🧰 General utilities
-└── style.css           # 🎨 Basic styles
+├── main.js               🚦 App entry point
+├── router.js             🗺️ Routing logic (normal routes, not hash)
+├── auth.js               🔐 Authentication and session logic
+├── events.js             🗓️ Event and registration CRUD logic
+├── utils.js              🧰 General utilities
+└── style.css             🎨 Basic styles
 
-´´´
+```
 ---
+## ▶️ How to Run the Application? Step by Step!
+
+Follow these simple steps to get the application running in your local environment:
+
+### 1. ⬇️ Install Dependencies
+
+Make sure you have [**Node.js**](https://nodejs.org/) installed and updated to the latest version on your system. If you don't have it, now's a good time to install it!
+
+Then, open a terminal in the project's root folder and run the following command:
+```
+npm install
+```
+### 2. 🚀 Start the Database Server
+
+In the same terminal (or in a new one if you prefer), start the simulated database server:
+```
+npm run server
+```
+This will spin up json-server at http://localhost:3000.
+
+### 3. 🌐 Start the Application with Vite
+
+Now, open another terminal in the project folder and run:
+```
+npm run dev
+```
+This will open the SPA at http://localhost:5173 (or the port indicated by Vite).
+---
+## 🔑 Test Users:
+
+To help you explore the application immediately, here are the credentials for an administrator user:
+
+**Administrator:**
+
+  - User: ```admin```
+  - Password: ```admin123```
+
+## Thank you for reading!
+
+I hope this project is useful to you! If you have any questions or suggestions, don't hesitate to contact me.
+
+**Contact me:👩‍💻**
+
+  - Coder: ```Juan Camilo Villa Zapata```
+  - Clan: ```Gosling```
+  - Email: ```cfinancieramedellin@gmail.com```
+  - ID Document: ```1039697486```
+
+
+
