@@ -1,4 +1,4 @@
-      ![logo](https://github.com/juanvilla05/SPA-with-JavaScript-and-Vite/blob/64e8f373f88a7c503937919574a3eba1148961e4/6661.jpg)
+[logo](https://github.com/juanvilla05/SPA-with-JavaScript-and-Vite/blob/64e8f373f88a7c503937919574a3eba1148961e4/6661.jpg)
 # 🚀 SPA Gestor de Eventos con Vanilla JS y Vite ✨
 
 ¡Bienvenido al repositorio de la SPA Gestor de Eventos! Esta aplicación te permite **organizar y registrarte en eventos** de una manera sencilla e intuitiva. Desarrollada con las últimas herramientas y un enfoque en la simplicidad y eficiencia, es ideal para administradores y asistentes por igual.
