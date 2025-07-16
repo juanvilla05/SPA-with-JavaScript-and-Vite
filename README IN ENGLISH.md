@@ -1,3 +1,4 @@
+![logo](https://github.com/juanvilla05/SPA-with-JavaScript-and-Vite/blob/64e8f373f88a7c503937919574a3eba1148961e4/6661.jpg)
 # 🚀 Event Management SPA with Vanilla JS and Vite ✨
 
 Welcome to the Event Management SPA repository! This application allows you to **organize and register for events** in a simple and intuitive way. Developed with the latest tools and a focus on simplicity and efficiency, it's ideal for both administrators and attendees.
