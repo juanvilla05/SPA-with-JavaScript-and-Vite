@@ -10,7 +10,7 @@ This is a **Single Page Application (SPA)** designed for event management, built
 
 * **👥 Administrators:** Create, edit, and delete events; manage registrations.
 * **🙋‍♀️ Visitors:** Explore available events, register, and cancel registrations.
-
+---
 ## 🏗️ Project Structure
 
 The code organization is clear and modular, facilitating navigation and maintenance:
@@ -29,3 +29,4 @@ The code organization is clear and modular, facilitating navigation and maintena
 └── style.css           # 🎨 Basic styles
 
 ´´´
+---
