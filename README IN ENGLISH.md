@@ -3,6 +3,8 @@
 
 Welcome to the Event Management SPA repository! This application allows you to **organize and register for events** in a simple and intuitive way. Developed with the latest tools and a focus on simplicity and efficiency, it's ideal for both administrators and attendees.
 
+[VER README EN ESPAÑOL](https://github.com/juanvilla05/SPA-with-JavaScript-and-Vite/blob/ba20ed31e1d7056a98685c85018351f07cac4dc7/README.md)
+
 ## 🌟 About the Project
 
 This is a **Single Page Application (SPA)** designed for event management, built with the lightness and speed of **Vite**, and the flexibility of **HTML, CSS, and pure JavaScript**. Forget complex frameworks! To simulate a REST API, we use `json-server`, which provides a fluid and realistic development experience.
